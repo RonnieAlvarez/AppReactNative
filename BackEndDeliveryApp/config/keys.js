@@ -1,4 +1,4 @@
 const keys = {
-	secretOrKey: 'MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJ7IegAylmBeRaBYqvOeYHzL79VMXjb3',
+	secretOrKey: '',
 };
 export default keys
